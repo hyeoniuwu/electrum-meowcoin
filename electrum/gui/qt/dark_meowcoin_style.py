@@ -31,6 +31,7 @@ QWidget { /* Set default style for QWidget, override in following statements */
     selection-color: #fff;
     selection-background-color: #818181;
     /*font-family:Pixeloid Sans;*/
+font-family:Consolas;
     font-size: 12px;
 }
 
@@ -250,6 +251,7 @@ ButtonsLineEdit {
 
 QLabel {
     /*font-family:Pixeloid Sans;*/
+font-family:Consolas;
     color: #aaa;
 }
 
