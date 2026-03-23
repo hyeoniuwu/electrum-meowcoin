@@ -54,6 +54,7 @@ elif platform.system() == 'Darwin':
     MONOSPACE_FONT = 'Monaco'
 else:
     MONOSPACE_FONT = 'monospace'
+    # MONOSPACE_FONT = 'Ubuntu Mono'
 
 
 dialogs = []

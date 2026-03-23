@@ -30,7 +30,7 @@ QWidget { /* Set default style for QWidget, override in following statements */
     border: 0;
     selection-color: #fff;
     selection-background-color: #DCDCDC;
-    font-family:Pixeloid Sans;
+    /*font-family:Pixeloid Sans;*/
     font-size: 15px;
 }
 

@@ -30,8 +30,8 @@ QWidget { /* Set default style for QWidget, override in following statements */
     border: 0;
     selection-color: #fff;
     selection-background-color: #818181;
-    font-family:Pixeloid Sans;
-    font-size: 15px;
+    /*font-family:Pixeloid Sans;*/
+    font-size: 12px;
 }
 
 QGroupBox {
@@ -249,7 +249,7 @@ ButtonsLineEdit {
 }
 
 QLabel {
-    font-family:Pixeloid Sans;
+    /*font-family:Pixeloid Sans;*/
     color: #aaa;
 }
 
